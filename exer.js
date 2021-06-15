@@ -11,7 +11,13 @@ for (let nImpar = 1; nImpar <=10; nImpar++){
 }
 
 //exercicio 3 - tabuada
-
+for (let a=1; a<=10; a++)
+{
+    for (let b=1; b<=10; b++)
+    {
+        console.log(a , "*", b, "=", a*b);
+    }
+}
 
 
 
